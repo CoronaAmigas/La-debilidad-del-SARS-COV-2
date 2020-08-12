@@ -6,7 +6,7 @@
 
 ## Objetivos terapéuticos
 
-## ¿Porqué estas y no otras?
+## ¿Porqué estas proteinas y no otras?
 
 You can use the [editor on GitHub](https://github.com/DaliaSanx/Rutas-Terap-uticas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
