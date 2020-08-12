@@ -1,12 +1,22 @@
 # Proteínas Blanco, Rutas terapéuticas en el tratamiento de COVID-19
 
+## COVID-19, ¿Porqué es tan importante el tratamiento?
+
 ## El ciclo viral
 
 ## Proteínas virales
 
 ## Objetivos terapéuticos
 
+### Spike
+
+### Proteína 2
+
 ## ¿Porqué estas proteinas y no otras?
+
+## Datos curiosos
+
+### Un poco sobre nosotras
 
 You can use the [editor on GitHub](https://github.com/DaliaSanx/Rutas-Terap-uticas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
