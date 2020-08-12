@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# Proteínas Blanco, Rutas terapéuticas en el tratamiento de COVID-19
+
+## El ciclo viral
+
+## Proteínas virales
+
+## Objetivos terapéuticos
+
+## ¿Porqué estas y no otras?
 
 You can use the [editor on GitHub](https://github.com/DaliaSanx/Rutas-Terap-uticas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
