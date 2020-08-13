@@ -27,6 +27,10 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
    - Sus cortes permiten liberar otras tres proteínas no estructurales que son necesarias para la replicación.
    - **Es responsable también de la supresión de la respuesta inmune humana**, mediante la intervención de una cascada de señales, inhibe la producción de citocinas e interferones, los cuales funcionan como mensajeros llamando a más células inflamatorias.
   2. **Proteasa principal:** *3CL Pro*.
+   - Realiza 11 cortes, muchos más que la de tipo papaína, es por ello que se le llama *Proteasa principal.*
+  3. **RNA polimerasa dependiente de RNA**
+   - Es generada por un corte de la proteína principal. 
+   - Su característica es que es **poco procesiva**, significa que sola no es infectante, **necesita de dos proteínas no estructurales, (7 y 8)** para ser veloz y funcionar.
 - **Proteínas estructurales**
   - 
 
