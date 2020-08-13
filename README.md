@@ -32,7 +32,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
    - Es generada por un corte de la proteína principal. 
    - Su característica es que es **poco procesiva**, significa que sola no es infectante, **necesita de dos proteínas no estructurales, (7 y 8)** para ser veloz y funcionar.
 - **Proteínas estructurales**
-  - 
+  - Proteína ***Spike***
 
 - Cada una de estas proteínas es como si fuera un hueso de nuestro esqueleto, tal vez no todos sean elementales, pero alterando el funcionamiento de al menos una, desestabilizaría al virus.
 
@@ -47,9 +47,6 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 ## Datos curiosos
 
 ### Un poco sobre nosotras
-
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
