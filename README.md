@@ -2,9 +2,9 @@
 
 ## COVID-19, ¿Porqué es tan importante el tratamiento?
 
-- A finales del 2019 surgió en China un brote de SARS-COV2. Dicho virus se asocia directamente a enfermedades de las vías respiratorias (principalmente).
+- A finales del 2019 surgió en China un brote de SARS-COV-2. Dicho virus se asocia directamente a enfermedades de las vías respiratorias (principalmente).
 
-- mEs de rápido contagio, por lo que, en pocas semanas llegó a todo el mundo, causando **desde infecciones asintomáticas hasta casos graves, en los que la última consencuencia fue la muerte.**
+- Es de rápido contagio, por lo que, en pocas semanas llegó a todo el mundo, causando **desde infecciones asintomáticas hasta casos graves, en los que la última consencuencia fue la muerte.**
 
 - En el mundo, hasta el 12 de Agosto de 2020, **han habido aproximadamente 226,264 casos nuevos reportados**, y hasta ese mismo día **se estimaron 4,918 muertes.** 
 México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexicano publicó que hasta ese día habían 492,522 casos confirmados y 53,929 defunciones.**
@@ -12,11 +12,16 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 ## El ciclo viral
 
+- El SARS-COV2 es un virus RNA monocatenario en sentido positivo, esto significa que puede se traducido inmediatamente por la maquinaria de la célula hospedera.
+- El nombre del receptor de este virus en las células humanas es **ECA 2**, o en inglés **ACE 2**, se encuentra en:
+  - **Neumocitos tipo 2** o células epiteliales alveolares tipo 2, que se encuentran en los pulmones.
+  - Intestino delgado
+  - Endotelio
 - Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.
 
 ## Proteínas virales
 
--
+- En total, el virus ...
 
 - Cada una de estas proteínas es como si fuera un hueso de nuestro esqueleto, tal vez no todos sean elementales, pero alterando el funcionamiento de al menos una, desestabilizaría al virus.
 
