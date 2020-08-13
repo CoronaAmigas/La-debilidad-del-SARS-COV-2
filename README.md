@@ -2,12 +2,21 @@
 
 ## COVID-19, ¿Porqué es tan importante el tratamiento?
 
-- A finales del 2019, surgió en China, un brote de SARS-COV2, este virus, se asocia directamente a **enfermedades de las vías respiratorias** principalmente; es de un rápido contagio y por ello, en pocas semanas logró llegar a todo el mundo, causando desde infecciones asintomáticas hasta casos graves en los que la última consencuencia fue la muerte. **En el mundo, hasta el 12 de Agosto de 2020, han habido aproximadamente 226,264 casos nuevos reportados, y en ese mismo día se estiman 4,918 muertes**. México no ha sido la excepción, **hasta el 11 de Agosto de 2020, el gobierno Mexicano publicó que se registraron 492,522 casos confirmados y 53,929 defunciones.**
+- A finales del 2019 surgió en China un brote de SARS-COV2. Dicho virus se asocia directamente a enfermedades de las vías respiratorias (principalmente). 
+-Es de rápido contagio, por lo que, en pocas semanas llegó a todo el mundo, causando **desde infecciones asintomáticas hasta casos graves, en los que la última consencuencia fue la muerte.** 
+-En el mundo, hasta el 12 de Agosto de 2020, **han habido aproximadamente 226,264 casos nuevos reportados**, y hasta ese mismo día **se estimaron 4,918 muertes.** 
+México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexicano publicó que hasta ese día habían 492,522 casos confirmados y 53,929 defunciones.**
 
 
 ## El ciclo viral
 
+- Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.
+
 ## Proteínas virales
+
+-
+
+- Cada una de estas proteínas es como si fuera un hueso de nuestro esqueleto, tal vez no todos sean elementales, pero alterando el funcionamiento de al menos una, desestabilizaría al virus.
 
 ## Objetivos terapéuticos
 
