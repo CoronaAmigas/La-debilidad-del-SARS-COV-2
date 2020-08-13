@@ -2,6 +2,8 @@
 
 ## COVID-19, ¿Porqué es tan importante el tratamiento?
 
+- A finales del 2019, surgió en China, un brote de SARS-COV2, este virus, se asocia directamente a enfermedades de las vías respiratorias principalmente; es de un rápido contagio y por ello, en pocas semanas logró llegar a todo el mundo, causando desde infecciones asintomáticas hasta casos graves en los que la última consencuencia fue la muerte. En el mundo, han habido aproximadamente casos reportados, y se estiman muertes. México no ha sido la excepción, hasta el 09 de Agosto de 2020
+
 ## El ciclo viral
 
 ## Proteínas virales
