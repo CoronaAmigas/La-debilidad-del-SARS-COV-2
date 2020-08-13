@@ -12,7 +12,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 ## El ciclo viral
 
-- El SARS-COV2 es un virus RNA monocatenario en sentido positivo, esto significa que puede se traducido inmediatamente por la maquinaria de la célula hospedera.
+- El SARS-COV2 es un virus RNA monocatenario en sentido positivo, esto significa que puede se traducido inmediatamente por la maquinaria de la célula hospedera. Dentro de la clasificación de la familia *Coronaviridae*, pertenece al grupo *B*
 - El nombre del receptor de este virus en las células humanas es **ECA 2**, o en inglés **ACE 2**, se encuentra en:
   - **Neumocitos tipo 2** o células epiteliales alveolares tipo 2, que se encuentran en los pulmones.
   - Intestino delgado
@@ -21,7 +21,14 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 ## Proteínas virales
 
-- En total, el virus ...
+- En total, el virus codifica para ::: proteínas, divididas en estructurales y no estructurales, es importante mencionar que **la variabilidad del virus radica en las proteínas estructurales, ya que son las menos conservadas**, significa que cuando varíen, es probable que un fármaco dirigido a ellas deje de ser efectivo. En este segmento, describiremos las proteínas más relevantes para el desarrollo de terapéuticos.
+- **Proteínas no estructurales**
+  1. **Proteasa tipo papaína:** *Las tijeras moleculares*.
+   - Sus cortes permiten liberar otras tres proteínas no estructurales que son necesarias para la replicación.
+   - **Es responsable también de la supresión de la respuesta inmune humana**, mediante la intervención de una cascada de señales, inhibe la producción de citocinas e interferones, los cuales funcionan como mensajeros llamando a más células inflamatorias.
+  2. **Proteasa principal:** *3CL Pro*.
+- **Proteínas estructurales**
+  - 
 
 - Cada una de estas proteínas es como si fuera un hueso de nuestro esqueleto, tal vez no todos sean elementales, pero alterando el funcionamiento de al menos una, desestabilizaría al virus.
 
@@ -37,13 +44,6 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 ### Un poco sobre nosotras
 
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
